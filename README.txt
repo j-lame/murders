@@ -6,4 +6,4 @@ wrangle-data.R - creates a derived dataset and saves as R object in rda director
 
 analysis.R - generates a plot and saves it to the figs directory
 
-JL copy
+JL copy - 2020.08.16
